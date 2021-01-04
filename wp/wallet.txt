@@ -1,0 +1,14 @@
+Wallet Download
+---------------
+for Windows:
+https://mega.nz/file/qJNSjBrT#iJ-532YOxMkqGyvIJ7fvFO4eUm7pamNYa5p74JXoqHc
+
+sha256:
+6eb0961d14ce81b616a629cd0745c8da8943550158cc9e8c1ee0ed9abb3866c8 *Taowallet Lite 1.2.0.msi
+
+--------------
+for macOS:
+https://mega.nz/file/rEFnkaIC#UrERDJi0Tg-CrrDv2UFc8HzUkhgIkWawSjIruYSY3x0
+
+sha256:
+86ea28706407dc6aec17a698ba8663c1e31801f6dd002f54ebb679f14b75a3e2 *Taowallet Lite-1.2.0.dmg
