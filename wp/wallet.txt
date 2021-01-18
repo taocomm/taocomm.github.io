@@ -1,14 +1,14 @@
 Wallet Download
 ---------------
 for Windows:
-https://mega.nz/file/CA1yAKyL#rYiWr3qy-mti-Qg2ENoHhe1MYehkDukIwtLWl6aXlaE
+https://mega.nz/file/vIlQVBoY#dHrWUxIFiHRe3D8rx0pzTXw8XDjagkogSg8h01_0MHo
 
 sha256:
-7c1ffbcac057c853c6c260573b01b55c3ece78f76aef51d105ddd3ce252b8d5a *Taowallet Lite duo 1.2.0.msi
+295c19ca6c97f801d7c7c2fd7fb7c482534fe08d85daeaae78c9e734c39dd501 *Taowallet Lite dual 1.2.0.msi
 
 --------------
 for macOS:
-https://mega.nz/file/KA8GyY5S#tgLNV9yub6JsckvlARnO9LJDQYFdLsSTqEgR0bN_gYE
+https://mega.nz/file/KFtCkbzD#Nv_w8ZUHzsq2bzrR8XAa1LSVLf1x9GsJQgZwXeeMVjM
 
 sha256:
-241d6ee1edd8bcbcd2bba36f37a997893730d436355323d2e9fd4defc118df9f *Taowallet Lite-duo-1.2.0.dmg
+b8b42fa67d3f87d29dec679cd2d0f07dafaa0747c34f7a8b061f820d53d3cd72 *Taowallet Lite-dual-1.2.0.dmg
