@@ -12,3 +12,10 @@ https://mega.nz/file/KFtCkbzD#Nv_w8ZUHzsq2bzrR8XAa1LSVLf1x9GsJQgZwXeeMVjM
 
 sha256:
 b8b42fa67d3f87d29dec679cd2d0f07dafaa0747c34f7a8b061f820d53d3cd72 *Taowallet Lite-dual-1.2.0.dmg
+
+--------------
+for Android:
+https://mega.nz/file/GZU20B7b#dfBIuTKV1K0GZCMHRG68oPsPpijnrWB88w0HEU_1PvU
+
+sha256:
+4d28f852cf1a044125b6041828b031bb7ee1c295ca1864357d79d5308d933f11 *app-arm64-v8a-release.apk
