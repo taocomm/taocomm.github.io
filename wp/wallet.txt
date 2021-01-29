@@ -1,21 +1,21 @@
 Wallet Download
 ---------------
 for Windows:
-https://mega.nz/file/vIlQVBoY#dHrWUxIFiHRe3D8rx0pzTXw8XDjagkogSg8h01_0MHo
+https://mega.nz/file/DJNAwTQD#a_DMzi2wF4xXKdumS2WbUi1fKaxrJy45nIAJs3aZF1E
 
 sha256:
-295c19ca6c97f801d7c7c2fd7fb7c482534fe08d85daeaae78c9e734c39dd501 *Taowallet Lite dual 1.2.0.msi
+d1d2716f4fe65c90da319ffdd3f508e6902d7607e5be32036c983e3125bd273d *Taowallet Lite 1.2.0.129.msi
 
 --------------
 for macOS:
-https://mega.nz/file/KFtCkbzD#Nv_w8ZUHzsq2bzrR8XAa1LSVLf1x9GsJQgZwXeeMVjM
+https://mega.nz/file/OJVQQDST#bjgb3xKx_tY3llOgyezAV-CIYyuDxakX9x98IJIRAtE
 
 sha256:
-b8b42fa67d3f87d29dec679cd2d0f07dafaa0747c34f7a8b061f820d53d3cd72 *Taowallet Lite-dual-1.2.0.dmg
+59ea7f1e54c40dc7d030faade3be5daf6bf949677bdbc2cfdc5a2c79d6c51f5f *Taowallet Lite-1.2.0.129.dmg
 
 --------------
 for Android:
-https://mega.nz/file/GZU20B7b#dfBIuTKV1K0GZCMHRG68oPsPpijnrWB88w0HEU_1PvU
+https://mega.nz/file/fZUi2bSb#mTnVl6hX7172QtrRPsUTRwpykYdvRYXVYENxvoVmpTc
 
 sha256:
-4d28f852cf1a044125b6041828b031bb7ee1c295ca1864357d79d5308d933f11 *app-arm64-v8a-release.apk
+8c6712e31f33fad68084afa2b343d6661e88609185a5abd3bf49053948f934d6 *app-arm64-v8a-release.apk
