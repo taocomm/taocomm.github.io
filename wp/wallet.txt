@@ -15,7 +15,8 @@ sha256:
 
 --------------
 for Android:
-https://mega.nz/file/fZUi2bSb#mTnVl6hX7172QtrRPsUTRwpykYdvRYXVYENxvoVmpTc
+https://mega.nz/file/vNcwUR6D#XIzgmP8BsPA0nzVCkTI-X4Z7MxjUlWqtKXI7nwPUy-o
 
 sha256:
-8c6712e31f33fad68084afa2b343d6661e88609185a5abd3bf49053948f934d6 *app-arm64-v8a-release.apk
+1f56548016558b5901d59450dc89bc4638e834292dd881b5bb311386a20f453e *app-arm64-v8a-release.apk
+
