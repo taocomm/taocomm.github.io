@@ -1,5 +1,5 @@
 ploter and miner:
-https://mega.nz/file/qMVC3TiL#Lb39GEB0_CJ0SExbinmbsf8X1goQTdUou1HATVMlGrE
+https://mega.nz/file/OZ8yzLSK#IsNyEZ26tNzDaWN18DtHphngQUJadxRlQSkERcKqxQc
 
 sha256:
 edb644aa97c4fba471e495abce7e6fb01c36550a1b79ad0d18db64cb1db75d34 *OpenCL.Net.dll
@@ -7,6 +7,8 @@ edb644aa97c4fba471e495abce7e6fb01c36550a1b79ad0d18db64cb1db75d34 *OpenCL.Net.dll
 5965d274765a1e64395fad85d9c2b6969e09682b60db443576462dafc9c134fb *engraver_gpu.exe
 aaf333fc65bed2980f0d6212dd299fff4c9821dcd8d3843f0049b705c1491eb9 *engraver_cpu.exe
 058cfd5e02ee74781b6d7d6b44a3cca6debd741aca1762d14091df1cc102ce6c *tpgui.exe
+0b5ae3b71a5f513c32d83bf0bf21afc8c1463e2aad737904bbf8e5c18f86e81a *ploting_n_mining_tut-en.pdf
+e3e81a126598123fa11ee72ee486edb2ccb0a09402c6c957b219040ab183c358 *FAQ-en.pdf
 54c8a3f3b1c08b10dede0abe3ed57e42e1addd24c9560851ba9da195b077a014 *FAQ.pdf
 3dde3aaf4ca0ce1952a755e0232078ff7d5dddfa1d600851901e7efc475037c1 *ploting_n_mining_tut.pdf
 014129d67c35beebe644440d3d976d123e83dac29d0ee9ee7a2d7d49e696106b *config.yaml
