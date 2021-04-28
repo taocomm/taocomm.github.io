@@ -1,7 +1,10 @@
 Wallet Download
 ---------------
-for Windows:
-https://mega.nz/file/SYkTGaKR#thWNu6qesA0j9s4uGsWPv3K-6X-_CznanKGp-OuJn-o
+for Windows(TAO&PANDA 2in1):
+http://dl.thetao.cash:8099/TAO.Wallet.Lite.1.2.427.msi
+
+1fbcd0ef0e1b731429234ab489a1230076246203d4bf082c50323bee03419149 *TAO.Wallet.Lite.1.2.427.msi
+
 
 sha256:
 986df002026eabab160cc4db846c17bd670e2d1d74bb2cc4c0af91d9685a837a *TAO Wallet Lite 1.2.325.msi
