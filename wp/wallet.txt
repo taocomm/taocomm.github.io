@@ -5,10 +5,6 @@ http://dl.thetao.cash:8099/TAO.Wallet.Lite.1.2.427.msi
 
 1fbcd0ef0e1b731429234ab489a1230076246203d4bf082c50323bee03419149 *TAO.Wallet.Lite.1.2.427.msi
 
-
-sha256:
-986df002026eabab160cc4db846c17bd670e2d1d74bb2cc4c0af91d9685a837a *TAO Wallet Lite 1.2.325.msi
-
 --------------
 for macOS:
 https://mega.nz/file/fc1TnQoK#zGrAkkDL3BSv1XFCtHuEC37ESwZ3squKSZ7uhmnL8xQ
