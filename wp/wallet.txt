@@ -24,4 +24,8 @@ or:
 https://mega.nz/file/aV8G2YbK#QfY0voOSFoKwEG16jbBFdm2vEJb_giviNa5ZsuuaUD8
 
 sha256:
+<<<<<<< HEAD
 e014394eb0d79306b295d6e57b72cb23343c0526a73095760f367ddaf8d59664 *TAO.Wallet.Lite.apk
+=======
+e014394eb0d79306b295d6e57b72cb23343c0526a73095760f367ddaf8d59664 *TAO.Wallet.Lite.apk
+>>>>>>> b0c74bd5bdf191ae1cf058621666cd62a59b12e8
