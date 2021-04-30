@@ -2,20 +2,26 @@ Wallet Download(TAO&PANDA 2in1)
 ---------------
 for Windows:
 http://dl.thetao.cash:8099/TAO.Wallet.Lite.1.2.427.msi
+or:
+https://mega.nz/file/WYUVlSob#6QpfWe-4CBC9mk_svP2_s3BaiEosFcCKV6oJUNB-1bw
 
 sha256:
-1fbcd0ef0e1b731429234ab489a1230076246203d4bf082c50323bee03419149 *TAO.Wallet.Lite.1.2.427.msi
+901d0437fb92962a5066a64fb7d62348c16b5e3fd62a89d8835a3ceb309f5fdc *TAO.Wallet.Lite.1.2.427.msi
 
 --------------
 for macOS:
 http://dl.thetao.cash:8099/TAO.Wallet.Lite.1.2.427.dmg
+or:
+https://mega.nz/file/PVExzIhA#QXY2jBQkQ77TFQdouTRGVps97GnDtjuGDPBxH_rYp6k
 
 sha256:
-7c8a15a58592d3afbd67fd561ca1a2ac407ba8756873df80d8570daeb90b1702 *TAO.Wallet.Lite.1.2.427.dmg
+d09d36a0f02ad50ff8f46329f847cb7c78fa70ac4e1e850e10cf347f6d700777 *TAO.Wallet.Lite.1.2.427.dmg
 
 --------------
 for Android:
 http://dl.thetao.cash:8099/TAO.Wallet.Lite.apk
+or:
+https://mega.nz/file/aV8G2YbK#QfY0voOSFoKwEG16jbBFdm2vEJb_giviNa5ZsuuaUD8
 
 sha256:
-b4ba96fab47ab4c8e53fe8d48de5776e5f4ad080653cee118766001b54606beb *TAO.Wallet.Lite.apk
+e014394eb0d79306b295d6e57b72cb23343c0526a73095760f367ddaf8d59664 *TAO.Wallet.Lite.apk
