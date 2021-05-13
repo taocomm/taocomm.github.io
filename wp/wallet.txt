@@ -21,7 +21,11 @@ sha256:
 for Android:
 https://dl.thetao.cash/TAO.Wallet.Lite.apk
 or:
-https://mega.nz/file/uUUUHDDL#gk4XJBfXWzWw2aQIOergoVvfirM47z7CaJEkcwACnsA
+https://sg.thetao.cash/TAO.Wallet.Lite.apk
+or:
+https://jp.thetao.cash/TAO.Wallet.Lite.apk
+or:
+https://mega.nz/file/KRk2QaRS#0qA-Hra_DjWEB2VmzlBbh5kfYiYr2QbO0Ro6cGYLFN0
 
 sha256:
-48a45124913b37f1f8c0c830944e3246f4cd4d7f669b6bbe40d6cc072b66d15e *TAO.Wallet.Lite.apk
+0ed0c2a1b0c59f8404780779b77347ebc3b27e3a8439b45b9b9c135ccc93ccbc *TAO.Wallet.Lite.apk
