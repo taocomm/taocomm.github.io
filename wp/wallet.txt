@@ -25,7 +25,7 @@ https://sg.thetao.cash/TAO.Wallet.Lite.apk
 or:
 https://jp.thetao.cash/TAO.Wallet.Lite.apk
 or:
-https://mega.nz/file/KRk2QaRS#0qA-Hra_DjWEB2VmzlBbh5kfYiYr2QbO0Ro6cGYLFN0
+https://mega.nz/file/7cMnRIpK#jAGou5wLEwuDAeBBgv8h9FSCXfsvOlj8GbZnbqvGUgg
 
 sha256:
-0ed0c2a1b0c59f8404780779b77347ebc3b27e3a8439b45b9b9c135ccc93ccbc *TAO.Wallet.Lite.apk
+1c07816705631303a53591fb48e6a5c3aa526300938596a89d2a89eddef433ab  TAO.Wallet.Lite.apk
