@@ -51,6 +51,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
 	   -ms-text-size-adjust: 100%;
+
 }
 
 a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, caption, canvas, center, cite, code,
@@ -395,7 +396,7 @@ blockquote p {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
-	color: #191919;
+	color: #ffffff;
 }
 
 h1 { font-size: 36px;}
@@ -1049,7 +1050,7 @@ ul.box-account li.sign-in:before {
     text-align: center;
     text-align: center;
     border-radius: 3px;
-	color: #191919;
+	color: #ffffff;
 }
 
 .flat-pagination li a:hover,
@@ -1308,7 +1309,7 @@ article.main-post .entry-content h2 {
 }
 
 article.main-post .entry-content h2 a:not(:hover) {
-	color: #000002;
+	color: #ffffff;
 }
 
 article.main-post .entry-content p {
@@ -1945,7 +1946,7 @@ article.main-single .direction .widget_tag_cloud {
 }
 
 .sw-even {
-	background-color: #191919;
+	background-color: #ffffff;
 	padding: 21px 0 25px 20px;
 	-webkit-transition: all 0.3s;
 	   -moz-transition: all 0.3s;
